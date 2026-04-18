@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "projects": [
+    {
+      "id": "wandrlust",
+      "name": "rewards.wandrlust.io",
+      "chain": "evm",
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=rewards.wandrlust.io",
+      "endpoints": [
+        "https://rewards.wandrlust.io/api/loyalty/accounts?limit=100&websiteId=ab969dcc-ac68-4729-a576-652e1b3ece98&organizationId=74495128-d214-4056-bb05-baa8e5b2c639&walletAddress={e_address}"
+      ]
+    },
+    {
+      "id": "konnex",
+      "name": "hub.konnex.world",
+      "chain": "evm",
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=hub.konnex.world",
+      "endpoints": [
+        "https://hub.konnex.world/api/loyalty/accounts?limit=100&websiteId=7857ae2c-2ebf-4871-a775-349bcdc416ce&organizationId=dbe51e03-92cc-4a5a-8d57-61c10753246b&walletAddress={e_address}"
+      ]
+    },
+    {
+      "id": "skale",
+      "name": "loyalty.skale.space",
+      "chain": "evm",
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=loyalty.skale.space",
+      "endpoints": [
+        "https://loyalty.skale.space/api/loyalty/accounts?limit=100&websiteId=a6f483c0-5e97-466c-acb1-ef26b1b20e49&organizationId=84b1e668-18a9-41fb-804a-b9ba35f501fc&walletAddress={e_address}"
+      ]
+    },
+    {
+      "id": "codecraft",
+      "name": "hub.codecraft.io",
+      "chain": "solana",
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=hub.codecraft.io",
+      "endpoints": [
+        "https://hub.codecraft.io/api/loyalty/accounts?limit=100&websiteId=3f67c752-a1a6-43b3-876c-df0786f04481&organizationId=ef25b08d-fd73-4a05-a6bb-81815551123e&walletAddress={s_address}"
+      ]
+    },
+    {
+      "id": "yom",
+      "note": "Phrase 1 snapshot Taken on 18/04/2026. Only accounts that have participated in the phrase 1 snapshot are eligible for rewards.",
+      "name": "quests.yom.net",
+      "chain": "evm",
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=quests.yom.net",
+      "endpoints": [
+        "https://quests.yom.net/api/loyalty/accounts?limit=100&websiteId=9c659eaa-a6ec-427e-a3a8-ed2cd222c8d8&organizationId=9cbc4bcb-081d-4499-8b5f-77261171a383&walletAddress={e_address}"
+      ]
+    },
+    {
+      "id": "zetarium",
+      "name": "airdrop.zetarium.world",
+      "chain": "evm",
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=airdrop.zetarium.world",
+      "endpoints": [
+        "https://airdrop-data.zetarium.world/leaderboard/{twitter_username}"
+      ]
+    },
+    {
+      "id": "stabilizer",
+      "name": "app.stabilizer.finance",
+      "chain": "evm",
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=app.stabilizer.finance",
+      "endpoints": [
+        "https://app.stabilizer.finance/api/whitelist/check/{e_address}"
+      ]
+    },
+    {
+      "id": "dtelecom",
+      "name": "rewards.dtelecom.org",
+      "chain": "solana",
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=rewards.dtelecom.org",
+      "endpoints": [
+        "https://rewards.dtelecom.org/api/loyalty/accounts?limit=100&websiteId=67b55527-30aa-4e73-befc-548d55843c1d&organizationId=e2ede0f6-6cf7-4e27-9690-b688a36241fe&walletAddress={s_address}"
+      ]
+    },
+    {
+      "id": "veera-rewards",
+      "name": "hub.veerarewards.com",
+      "chain": "evm",
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=hub.veerarewards.com",
+      "endpoints": [
+        "https://hub.veerarewards.com/api/loyalty/accounts?limit=100&websiteId=d2c97001-a40d-45b6-b69c-11927e144773&organizationId=3cf0dde2-04c0-424a-a603-13fcf79e440e&walletAddress={e_address}"
+      ]
+    },
+    {
+      "id": "watch-fun",
+      "name": "quests.watch.fun",
+      "chain": "solana",
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=quests.watch.fun",
+      "endpoints": [
+        "https://quests.watch.fun/api/users?includeDelegation=false&walletAddress={s_address}&websiteId=4b842943-8b8f-4b2d-8cc2-5bb51a640be9&organizationId=cefec901-3461-4251-b040-b209eea87c97"
+      ]
+    },
+    {
+      "id": "moviton",
+      "name": "hub.moviton.com",
+      "chain": "evm",
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=hub.moviton.com",
+      "endpoints": [
+        "https://hub.moviton.com/api/loyalty/accounts?limit=100&websiteId=ee98b9e0-537c-449e-b036-f885509c6716&organizationId=0c8966ba-d772-4d72-aaeb-d573d1700836&walletAddress={e_address}"
+      ]
+    },
+    {
+      "id": "pactswap",
+      "name": "hub.pactswap.io",
+      "chain": "evm",
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=hub.pactswap.io",
+      "endpoints": [
+        "https://hub.pactswap.io/api/loyalty/accounts?limit=100&websiteId=c3b59f60-7af2-4ed0-b7bd-a516d529164f&organizationId=c3a57acb-4b05-4162-809f-a1f8729cdf9a&walletAddress={e_address}"
+      ]
+    },
+    {
+      "id": "perceptrons",
+      "name": "quests.perceptrons.xyz",
+      "chain": "solana",
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=quests.perceptrons.xyz",
+      "endpoints": [
+        "https://quests.perceptrons.xyz/api/loyalty/accounts?limit=100&websiteId=2c9b0eea-29c8-4696-86af-d9ab48c194b9&organizationId=8c8f300c-ad6d-48c4-b35c-75f60ae7cab1&walletAddress={s_address}"
+      ]
+    },
+    {
+      "id": "czrex",
+      "name": "quest.czrex.com",
+      "chain": "evm",
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=quest.czrex.com",
+      "endpoints": [
+        "https://quest.czrex.com/api/loyalty/accounts?limit=100&websiteId=e0d70f00-074f-48e7-9f42-e97fb26066d5&organizationId=8a43cf52-40ba-4527-9244-2971a03b1d4a&walletAddress={e_address}"
+      ]
+    },
+    {
+      "id": "arcterminal-portfolio",
+      "status": "ended",
+      "name": "api.arcterminal.ai",
+      "chain": "evm",
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=api.arcterminal.ai",
+      "endpoints": [
+        "https://api.arcterminal.ai/api/wallet/portfolio?address={e_address}&currency=usd"
+      ]
+    }
+  ]
+}
