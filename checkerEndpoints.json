@@ -23,7 +23,7 @@
       "id": "skale",
       "name": "loyalty.skale.space",
       "chain": "evm",
-      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=loyalty.skale.space",
+      "image_url": "https://www.skale.space/logo.svg",
       "endpoints": [
         "https://loyalty.skale.space/api/loyalty/accounts?limit=100&websiteId=a6f483c0-5e97-466c-acb1-ef26b1b20e49&organizationId=84b1e668-18a9-41fb-804a-b9ba35f501fc&walletAddress={e_address}"
       ]
@@ -39,7 +39,7 @@
     },
     {
       "id": "yom",
-      "note": "Phrase 1 snapshot Taken on 18/04/2026. Only accounts that have participated in the phrase 1 snapshot are eligible for rewards.",
+      "note": "Phrase 1 snapshot Taken on 17/04/2026. Only accounts that have participated in the phrase 1 snapshot are eligible for rewards.",
       "name": "quests.yom.net",
       "chain": "evm",
       "image_url": "https://www.google.com/s2/favicons?sz=128&domain=quests.yom.net",
@@ -60,7 +60,7 @@
       "id": "stabilizer",
       "name": "app.stabilizer.finance",
       "chain": "evm",
-      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=app.stabilizer.finance",
+      "image_url": "https://app.stabilizer.finance/favicon.png",
       "endpoints": [
         "https://app.stabilizer.finance/api/whitelist/check/{e_address}"
       ]
@@ -89,14 +89,14 @@
       "chain": "solana",
       "image_url": "https://www.google.com/s2/favicons?sz=128&domain=quests.watch.fun",
       "endpoints": [
-        "https://quests.watch.fun/api/users?includeDelegation=false&walletAddress={s_address}&websiteId=4b842943-8b8f-4b2d-8cc2-5bb51a640be9&organizationId=cefec901-3461-4251-b040-b209eea87c97"
+        "https://quests.watch.fun/api/loyalty/accounts?limit=100&websiteId=4b842943-8b8f-4b2d-8cc2-5bb51a640be9&organizationId=cefec901-3461-4251-b040-b209eea87c97&walletAddress={s_address}"
       ]
     },
     {
       "id": "moviton",
       "name": "hub.moviton.com",
       "chain": "evm",
-      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=hub.moviton.com",
+      "image_url": "https:www.moviton.com/favicon.svg",
       "endpoints": [
         "https://hub.moviton.com/api/loyalty/accounts?limit=100&websiteId=ee98b9e0-537c-449e-b036-f885509c6716&organizationId=0c8966ba-d772-4d72-aaeb-d573d1700836&walletAddress={e_address}"
       ]
@@ -105,7 +105,7 @@
       "id": "pactswap",
       "name": "hub.pactswap.io",
       "chain": "evm",
-      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=hub.pactswap.io",
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=pactswap.io/favicon.ico",
       "endpoints": [
         "https://hub.pactswap.io/api/loyalty/accounts?limit=100&websiteId=c3b59f60-7af2-4ed0-b7bd-a516d529164f&organizationId=c3a57acb-4b05-4162-809f-a1f8729cdf9a&walletAddress={e_address}"
       ]
@@ -137,6 +137,27 @@
       "endpoints": [
         "https://api.arcterminal.ai/api/wallet/portfolio?address={e_address}&currency=usd"
       ]
+    },
+    {
+      "id": "heyaura",
+      "name": "hub.heyaura.com",
+      "chain": "evm",
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=hub.heyaura.com",
+      "endpoints": [
+        "https://hub.heyaura.com/api/loyalty/accounts?limit=100&websiteId=402b4798-a24c-4c67-a9b9-2a8307ff5464&organizationId=5cb0be9a-6fae-45a9-a1a8-b23812cb9732&walletAddress={e_address}"
+      ]
+    },
+    {
+      "id": "cyberkongz",
+      "name": "kong-token-api.cyberkongz.com",
+      "chain": "evm",
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=cyberkongz.com",
+      "endpoints": [
+        "https://kong-token-api.cyberkongz.com/user/{e_address}"
+      ]
     }
   ]
 }
+
+
+
