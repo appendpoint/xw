@@ -62,7 +62,7 @@
       "chain": "evm",
       "image_url": "https://app.stabilizer.finance/favicon.png",
       "endpoints": [
-        "https://app.stabilizer.finance/api/whitelist/check/{e_address}"
+        "https://app.stabilizer.finance/api/zpoints/user/{e_address}"
       ]
     },
     {
