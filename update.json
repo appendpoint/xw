@@ -1,0 +1,6 @@
+{
+  "version": "2.0.1",
+  "apkUrl": "https://your-cdn.com/xwallet-2.0.1.apk",
+  "notes": "Bug fixes and improvements",
+  "mandatory": false
+}
