@@ -1,6 +1,6 @@
 {
   "id": 1,
-  "notification": false,
+  "notification": true,
   "image": true,
   "button": true,
   "title": "Update Available",
@@ -11,6 +11,7 @@
 },
 {
   "id": 2,
+  "notification": true,
   "image": true,
   "button": true,
   "title": "Update Available",
