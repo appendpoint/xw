@@ -3,5 +3,5 @@
   "version": "3.0.0",
   "apkUrl": "https://download.xwalup.workers.dev/",
   "notes": "Bug fixes and improvements",
-  "mandatory": false
+  "mandatory": true
 }
