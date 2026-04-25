@@ -1,7 +1,7 @@
 {
   "running": "true",
   "version": "3.0.0",
-  "apkUrl": "https://download.xwalup.workers.dev/",
+  "apkUrl": "https://github.com/testnetsfile/apps/releases/download/v3.0.0/xWallet.apk",
   "notes": "Bug fixes and improvements",
   "mandatory": true
 }
