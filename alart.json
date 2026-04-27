@@ -1,11 +1,11 @@
 {
-  "notification": false,
+  "notification": true,
   "image": true,
   "button": true,
-  "title": "Update Available",
-  "message": "Pleasee Update your App 2.0.1 for smoth Uses ",
-  "media": "https://play-lh.googleusercontent.com/prcqzxI7Fot1OyHaX0ITFD-v-ZgPwi-ZaL_9VAQ29hIQfYrrX87PcLSYpZECRh43G5A",
-  "buttonText": "Join Zetarium",
-  "ctaUrl": "./testnet/"
+  "title": "Testnet Update",
+  "message": "DAC L1 Testnet is now LIVE! \n\nThe first quantum-proof, non-inflationary blockchain.\nBuilt for RWA, DeFi, AI, and secure data validation.\n\nEarly participants — join now! Limited slots & exclusive rewards are waiting.",
+  "media": "https://pbs.twimg.com/media/HGltraybIAAavkb?format=jpg&name=large",
+  "buttonText": "Join DAC",
+  "ctaUrl": "https://inception.dachain.io/?ref=DAC14659"
 }
 
