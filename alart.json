@@ -1,5 +1,5 @@
 {
-  "notification": true,
+  "notification": false,
   "image": true,
   "button": true,
   "title": "Testnet Update",
