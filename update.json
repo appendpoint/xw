@@ -1,7 +1,7 @@
 {
   "running": "true",
-  "version": "3.0.0",
-  "apkUrl": "https://github.com/testnetsfile/apps/releases/download/v3.0.0/xWallet.apk",
+  "version": "3.0.1",
+  "apkUrl": "https://github.com/testnetsfile/apps/releases/download/v3.0.1/xWallet.apk",
   "notes": "Bug fixes and improvements",
   "mandatory": true
 }
