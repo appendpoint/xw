@@ -10,6 +10,15 @@
         "https://rewards.wandrlust.io/api/loyalty/accounts?limit=100&websiteId=ab969dcc-ac68-4729-a576-652e1b3ece98&organizationId=74495128-d214-4056-bb05-baa8e5b2c639&walletAddress={e_address}"
       ]
     },
+     {
+      "id": "Plume",
+      "name": "registration.plume.org",
+      "chain": "evm",
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=registration.plume.org",
+      "endpoints": [
+        "https://registration.plume.org/api/sybil-status?address={e_address}"
+      ]
+    },
     {
       "id": "konnex",
       "name": "hub.konnex.world",
