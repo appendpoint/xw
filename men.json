@@ -1,10 +1,5 @@
 [
-  {
-    "email": "ftleader0x0@gmail.com",
-    "wallet": "0x09c41C93dcAa3C8df4D016b974cF2F11373EA7C7",
-    "points": 9800,
-    "reward": 98
-  },
+ 
   {
     "email": "skislam1010@gmail.com",
     "wallet": "0x09c41C93dcAa3C8df4D016b974cF2F11373EA7C7",
@@ -892,6 +887,12 @@
     "wallet": "0xd76b917ea6f55a635f90d864fb6b63442a731d9f",
     "points": 10000,
     "reward": 100
+  },
+   {
+    "email": "ftleader0x0@gmail.com",
+    "wallet": "0x09c41C93dcAa3C8df4D016b974cF2F11373EA7C7",
+    "points": 9800,
+    "reward": 98
   },
   {
     "email": "azhar555siyal@gmail.com",
