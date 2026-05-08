@@ -10,6 +10,15 @@
         "https://rewards.wandrlust.io/api/loyalty/accounts?limit=100&websiteId=ab969dcc-ac68-4729-a576-652e1b3ece98&organizationId=74495128-d214-4056-bb05-baa8e5b2c639&walletAddress={e_address}"
       ]
     },
+    {
+      "id": "nexus",
+      "name": "app.nexus.xyz",
+      "chain": "evm",
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=app.nexus.xyz",
+      "endpoints": [
+        "https://quest.nexus.xyz/api/loyalty/accounts?limit=100&websiteId=85a29db3-d34b-4d41-8f37-2bfd3a04a503&organizationId=2899d417-cf20-404f-bb33-ef0e06491acb&walletAddress={e_address}"
+      ]
+    },
      {
       "id": "Plume",
       "name": "registration.plume.org",
