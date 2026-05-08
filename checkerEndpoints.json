@@ -25,7 +25,7 @@
       "chain": "solana",
       "image_url": "https://www.google.com/s2/favicons?sz=128&domain=hub.sleepagotchi.com",
       "endpoints": [
-        "https://hub.sleepagotchi.com/api/loyalty/accounts?limit=100&websiteId=524a3b81-fcd9-4312-aba0-0d47488065df&organizationId=40258843-f7d5-4d64-9dfa-065de733c561&walletAddress={e_address}"
+        "https://hub.sleepagotchi.com/api/loyalty/accounts?limit=100&websiteId=524a3b81-fcd9-4312-aba0-0d47488065df&organizationId=40258843-f7d5-4d64-9dfa-065de733c561&walletAddress={s_address}"
       ]
     },
     {
