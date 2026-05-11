@@ -1,5 +1,557 @@
 [
   {
+    "email": "dewadewdh910@gmail.com",
+    "wallet": "0x00e7a1181a32d03bb17f34f2903fd86a4370027b",
+    "points": 1055000,
+    "reward": 10550
+  },
+  {
+    "email": "selalusendiri397@gmail.com",
+    "wallet": "0x6abE304eD23e19c5Fb77263A62EE2f10938E37E6",
+    "points": 50300,
+    "reward": 503
+  },
+  {
+    "email": "billubaba1983@gmail.com",
+    "wallet": "0xb9e32C15B63FB6773Ea3442f6C8067710e4841AE",
+    "points": 12500,
+    "reward": 125
+  },
+  {
+    "email": "botuyenmc@gmail.com",
+    "wallet": "0xb5beaa46a022e84ed944e44124b59ba5be2090a5",
+    "points": 100000,
+    "reward": 1000
+  },
+  {
+    "email": "dikikurniawan832@gmail.com",
+    "wallet": "0x4949d93c7b4dc3fa1689795db23589455f87407a",
+    "points": 24000,
+    "reward": 240
+  },
+  {
+    "email": "tripratama089@gmail.com",
+    "wallet": "0x7466b1f4808e04357db6c420a8abab41e38cd33f",
+    "points": 1070000,
+    "reward": 10700
+  },
+  {
+    "email": "sopyantsauri013@gmail.com",
+    "wallet": "0xcb9fcc958f7ea5c187f17eae6e1be3e304a7a971",
+    "points": 20000,
+    "reward": 200
+  },
+  {
+    "email": "heundip@gmail.com",
+    "wallet": "0x6b1c9112df0be9d9a3e8987a96584519f6f81946",
+    "points": 70000,
+    "reward": 700
+  },
+  {
+    "email": "kinodery@gmail.com",
+    "wallet": "0xB35Ebb0db7AA46c913d3e75D041C857cb6423988",
+    "points": 25000,
+    "reward": 250
+  },
+  {
+    "email": "ncekfirmansyah25@gmail.com",
+    "wallet": "0xF0EdDC8079031929B7E2da59C73C370b0933DE01",
+    "points": 24000,
+    "reward": 240
+  },
+  {
+    "email": "sangputraperbakinjuna@gmail.com",
+    "wallet": "0x44cd5ea3d582cc9f79aac5e389cf5d477d7880d0",
+    "points": 24000,
+    "reward": 240
+  },
+  {
+    "email": "sendiskaads@gmail.com",
+    "wallet": "0xf70A31b2F947AdF86dF552aC1897FCa2b5940370",
+    "points": 70000,
+    "reward": 700
+  },
+  {
+    "email": "aciun7275@gmail.com",
+    "wallet": "0xEBc8e9acEE7DA022Ce79c3b80f86D339786B5F07",
+    "points": 24000,
+    "reward": 240
+  },
+  {
+    "email": "donnyp152@gmail.com",
+    "wallet": "0x371633f533626CDe63E4d9Fb11043A9E8C3ED51e",
+    "points": 10000,
+    "reward": 100
+  },
+  {
+    "email": "tekatawan@gmail.com",
+    "wallet": "0x5145866B80CfD99EEB968b6DC7148b921aed61C4",
+    "points": 70000,
+    "reward": 700
+  },
+  {
+    "email": "gadris250@gmail.com",
+    "wallet": "0xB4DdE601f40DB20892129d4558FbfA7219f46E98",
+    "points": 100000,
+    "reward": 1000
+  },
+  {
+    "email": "akramdena43@gmail.com",
+    "wallet": "0x4E0C11FF99bbF8213B1D3b941d1a81Ad1e557ea9",
+    "points": 24300,
+    "reward": 243
+  },
+  {
+    "email": "aszaenmu@gmail.com",
+    "wallet": "0xbc7ec6e48ef9d54047abece5eb636d83dca23091",
+    "points": 85000,
+    "reward": 850
+  },
+  {
+    "email": "dhimasgs6597@gmail.com",
+    "wallet": "0x5f810a524AF1E902Eb36d52259206bFa95F5B1d4",
+    "points": 25000,
+    "reward": 250
+  },
+  {
+    "email": "alungsipetani@gmail.com",
+    "wallet": "0x4F97A3aa19d2a274a96D67B8777F72cc526F3f4c",
+    "points": 85000,
+    "reward": 850
+  },
+  {
+    "email": "sahibul.damarwulan@gmail.com",
+    "wallet": "0x60aB87b801f4394a11c7514c2e0d76cfe2B45671",
+    "points": 24000,
+    "reward": 240
+  },
+  {
+    "email": "azzanisofyan0@gmail.com",
+    "wallet": "0xff36eca8cd22cb5267d281a118fba12165c0b070",
+    "points": 50200,
+    "reward": 502
+  },
+  {
+    "email": "erangaemb2004@gmail.com",
+    "wallet": "0x3332A11241C6371D0A8ff2F9f800b013165E0cC1",
+    "points": 15000,
+    "reward": 150
+  },
+  {
+    "email": "muhdierlangga205@gmail.com",
+    "wallet": "0x43e51344fb7df0769b1ede9aed211780a376549d",
+    "points": 24500,
+    "reward": 245
+  },
+  {
+    "email": "alihajihasani17@gmail.com",
+    "wallet": "0xe43Cf8AD917E550Bc186af4B4BB1A2AfB20556f8",
+    "points": 24000,
+    "reward": 240
+  },
+  {
+    "email": "dwiprilaksono1@gmail.com",
+    "wallet": "0x688044Be0AE7c462eD26c4B7CA4c828040EA998E",
+    "points": 24000,
+    "reward": 240
+  },
+  {
+    "email": "dinasti.joko@gmail.com",
+    "wallet": "0xD59C1B86D4287bb4793A92E84506a3bcd5A91fFf",
+    "points": 85000,
+    "reward": 850
+  },
+  {
+    "email": "thaolnt.7@gmail.com",
+    "wallet": "0xd022ceb255574f5a05cfbbac0ee3e00bf23c293d",
+    "points": 25000,
+    "reward": 250
+  },
+  {
+    "email": "kajaljash07@gmail.com",
+    "wallet": "0xa2BCD1053380c0e160c2AEe3772c60e2E417a38F",
+    "points": 70000,
+    "reward": 700
+  },
+  {
+    "email": "usdt705@gmail.com",
+    "wallet": "0x27a514f9b9ed7a819938dce57dbe8ba68da62824",
+    "points": 10000,
+    "reward": 100
+  },
+  {
+    "email": "tretand035@gmail.com",
+    "wallet": "0x5460a78Ed117EE9EE19Ce989706CA64f3fea3AEd",
+    "points": 24000,
+    "reward": 240
+  },
+  {
+    "email": "alrajabjeko8@gmail.com",
+    "wallet": "0x023eb900c022d303997765c006206faf3ad54f45",
+    "points": 24000,
+    "reward": 240
+  },
+  {
+    "email": "parmanadandy9@gmail.com",
+    "wallet": "0xce956c37420649b962730e418528f5d13ba2becf",
+    "points": 24000,
+    "reward": 240
+  },
+  {
+    "email": "aji.samhadi@gmail.com",
+    "wallet": "0x2746d9Dc9Fc309f1c74891d067061Ebac97eF3c0",
+    "points": 24000,
+    "reward": 240
+  },
+  {
+    "email": "panjiimade5@gmail.com",
+    "wallet": "0x485dC7AC83B224973c35630C0602d36fb2309a52",
+    "points": 15000,
+    "reward": 150
+  },
+  {
+    "email": "pmljoko42@gmail.com",
+    "wallet": "0xd0E40f8DC3F239937272FF95FE83d93A13dd72A8",
+    "points": 15000,
+    "reward": 150
+  },
+  {
+    "email": "mangfiksi6@gmail.com",
+    "wallet": "0xe94Ec19F5e9F1B98dbBB395973175CFaFBb9FaC3",
+    "points": 24000,
+    "reward": 240
+  },
+  {
+    "email": "souranjash65@gmail.com",
+    "wallet": "0xBd31989716749a470F832e2c738f0B7C75228175",
+    "points": 70000,
+    "reward": 700
+  },
+  {
+    "email": "crosslinecv@gmail.com",
+    "wallet": "0x964686a6cB1efD9eCD7b53086C24D0AAC53e0c69",
+    "points": 85000,
+    "reward": 850
+  },
+  {
+    "email": "kechililham13@gmail.com",
+    "wallet": "0xeef86Bf7db90345F726d9F7E04731b64DEe79782",
+    "points": 12500,
+    "reward": 125
+  },
+  {
+    "email": "jypdoc373@gmail.com",
+    "wallet": "0x30b281559a3f0f54f315c40ba4632686d0cf6097",
+    "points": 24500,
+    "reward": 245
+  },
+  {
+    "email": "kkokkbetok@gmail.com",
+    "wallet": "0x08d7272eB799FE087E1561930ef3260606a16B3f",
+    "points": 10000,
+    "reward": 100
+  },
+  {
+    "email": "coygabut11@gmail.com",
+    "wallet": "0xa55e81f00a43adac7c4a98f1678ad8b0a2175a8b",
+    "points": 15000,
+    "reward": 150
+  },
+  {
+    "email": "0xalam2@gmail.com",
+    "wallet": "0xc149bAF46340349389c652aEEA4f5f1aCbc32c0a",
+    "points": 24000,
+    "reward": 240
+  },
+  {
+    "email": "wolwol085842642870@gmail.com",
+    "wallet": "0x99dd9f4be09da6a503e9021431895c6460befe2b",
+    "points": 24000,
+    "reward": 240
+  },
+  {
+    "email": "winsyorri@gmail.com",
+    "wallet": "0xd6EFE39439EAa70454aB9DA83a5A7C47E7BF1607",
+    "points": 24000,
+    "reward": 240
+  },
+  {
+    "email": "khoirul.nisa1983@gmail.com",
+    "wallet": "0x73ddae46e300d41ff3642c19d7f377ddc770b744",
+    "points": 1055000,
+    "reward": 10550
+  },
+  {
+    "email": "dendy.suhendrik@gmail.com",
+    "wallet": "0xEFe7C65C7b509DA1427c0B5b420F2673f9BC4949",
+    "points": 70000,
+    "reward": 700
+  },
+  {
+    "email": "kunaluyut@gmail.com",
+    "wallet": "0x90552Ca53592DfA96C887400DDAB964B2824FF02",
+    "points": 85000,
+    "reward": 850
+  },
+  {
+    "email": "putrakelana5420@gmail.com",
+    "wallet": "0x20b3c06ec0534cfd387c2202a5cc0d5b49d500c2",
+    "points": 12500,
+    "reward": 125
+  },
+  {
+    "email": "austinedigital4@gmail.com",
+    "wallet": "0xdd25422cc3bf5452d2eeac2e49d32b2f66fd51b1",
+    "points": 50300,
+    "reward": 503
+  },
+  {
+    "email": "tuyuldana1@gmail.com",
+    "wallet": "0xeC0f1750d451A62f172f284a2C7F1994463c3764",
+    "points": 24300,
+    "reward": 243
+  },
+  {
+    "email": "doniherdianto69@gmail.com",
+    "wallet": "0x51a9647C32Af128D937be3781057282Bae85eF2A",
+    "points": 24300,
+    "reward": 243
+  },
+  {
+    "email": "leducloi80702@gmail.com",
+    "wallet": "0xDe992a0FF78E683AAC8d8F044FB532E222F4bAA3",
+    "points": 100000,
+    "reward": 1000
+  },
+  {
+    "email": "tarakjh55@gmail.com",
+    "wallet": "0x5D92154E6553e01A9C119bb870f2BA58Ae1e8d56",
+    "points": 70000,
+    "reward": 700
+  },
+  {
+    "email": "guzgogon12@gmail.com",
+    "wallet": "0x5Fe243B4d89662e2ca7Cb31A0DE080B5b842e20C",
+    "points": 10000,
+    "reward": 100
+  },
+  {
+    "email": "ozihatake77@gmail.com",
+    "wallet": "0x9b0e826BAA5E93c7eB3057098ea968785551c38f",
+    "points": 55000,
+    "reward": 550
+  },
+  {
+    "email": "anandre490@gmail.com",
+    "wallet": "0x720b851bbebd76740c5af9fca4aa990917d457f8",
+    "points": 55000,
+    "reward": 550
+  },
+  {
+    "email": "hgddari@gmail.com",
+    "wallet": "0xbc0f79d681f752123e439fe5b39c32e120500330",
+    "points": 20000,
+    "reward": 200
+  },
+  {
+    "email": "lampanggabean2019@gmail.com",
+    "wallet": "0x2f53A1D6b19fEE7A4b04A57277F359C45B0A24f6",
+    "points": 10000,
+    "reward": 100
+  },
+  {
+    "email": "hungduong1090@gmail.com",
+    "wallet": "0x99e0D8B036CB00d555853b6fC6559c2643EacE7a",
+    "points": 55000,
+    "reward": 550
+  },
+  {
+    "email": "akuntbtbtbtb@gmail.com",
+    "wallet": "0x8ad3ed216d577c42ebc2039c5525ba6da7fc5a86",
+    "points": 24000,
+    "reward": 240
+  },
+  {
+    "email": "ayamhopee@gmail.com",
+    "wallet": "0x9C854Bf81C81cb5038ff3DD702e9e552f20fe1B5",
+    "points": 70000,
+    "reward": 700
+  },
+  {
+    "email": "electricrehovot@gmail.com",
+    "wallet": "0x434591cD7Ecb93902804643C3f41e0bb67cA5eae",
+    "points": 15000,
+    "reward": 150
+  },
+  {
+    "email": "cardnot404@gmail.com",
+    "wallet": "0xb39E150C0000d902E5aA8e7cFC2C36485a0292D3",
+    "points": 100000,
+    "reward": 1000
+  },
+  {
+    "email": "awpruslih@gmail.com",
+    "wallet": "0xf5Cd336c61B3f2B351d235ecBB22322735930abe",
+    "points": 55000,
+    "reward": 550
+  },
+  {
+    "email": "puspadiana1009@gmail.com",
+    "wallet": "0x74F9C54ed93B8698FAc310665C0B913767d6eFE8",
+    "points": 10000,
+    "reward": 100
+  },
+  {
+    "email": "khaerulfikran@gmail.com",
+    "wallet": "0x645d72F9D890013BCD354330dfbcACe1640E5Aa9",
+    "points": 15000,
+    "reward": 150
+  },
+  {
+    "email": "andarsunarya01@gmail.com",
+    "wallet": "0xA4fCc2bF5Cd2c771351525eedB8344a43C7e1b06",
+    "points": 70000,
+    "reward": 700
+  },
+  {
+    "email": "donald234napitupulu@gmail.com",
+    "wallet": "0xc312B23b476b653784dD17D963bCf74bC726fE6c",
+    "points": 12500,
+    "reward": 125
+  },
+  {
+    "email": "kancangkalip@gmail.com",
+    "wallet": "0xc5fdef3996a95553bc9d252ce8c297ffe5b5a79e",
+    "points": 24000,
+    "reward": 240
+  },
+  {
+    "email": "olgamirankova@gmail.com",
+    "wallet": "0x3152bE66D85e155CB185E2030FA5E8f712Ce520e",
+    "points": 100000,
+    "reward": 1000
+  },
+  {
+    "email": "eunjangt@gmail.com",
+    "wallet": "0x5fF536F84B77AfE4c744552166DD4938C3081757",
+    "points": 24000,
+    "reward": 240
+  },
+  {
+    "email": "riyantoayip@gmail.com",
+    "wallet": "0xB4d772be6465B75AD0f7119470b452f00b2D6156",
+    "points": 15000,
+    "reward": 150
+  },
+  {
+    "email": "y.heriyanto102@gmail.com",
+    "wallet": "0x942054f145c53e6557e9cfacf9aa44bea5e0f24d",
+    "points": 70000,
+    "reward": 700
+  },
+  {
+    "email": "ihsan.kamil.1004@gmail.com",
+    "wallet": "0x2e5d041e554d9859da890ccc28ac618a5381f817",
+    "points": 70000,
+    "reward": 700
+  },
+  {
+    "email": "iifaanm01@gmail.com",
+    "wallet": "0x8274252C5F87Ea0ce5e2BE526C19aaf8A55e380C",
+    "points": 70000,
+    "reward": 700
+  },
+  {
+    "email": "estemwarden@gmail.com",
+    "wallet": "0x32E60DD1f8A868FAE337FB400e47A81a4d4FdDB5",
+    "points": 24000,
+    "reward": 240
+  },
+  {
+    "email": "membertraderjks@gmail.com",
+    "wallet": "0x2edC3c2e53C0e291fC78023a3DAdCa499eEf1d4F",
+    "points": 24000,
+    "reward": 240
+  },
+  {
+    "email": "untungterus1555@gmail.com",
+    "wallet": "0x8F025743e86EE7629A762f811af5CC2eE71ca431",
+    "points": 24000,
+    "reward": 240
+  },
+  {
+    "email": "yurez1981@gmail.com",
+    "wallet": "0x57D9F565eE542639E6d3ed2D9018cC581F36846E",
+    "points": 100000,
+    "reward": 1000
+  },
+  {
+    "email": "khidayat12121217@gmail.com",
+    "wallet": "0xd874ECDA3e1fF9f0d2B4C80Cb8C1Caa095CD0725",
+    "points": 70000,
+    "reward": 700
+  },
+  {
+    "email": "misesmd1@gmail.com",
+    "wallet": "0x9FDb2de908032e0F6F734cf56924e2D70df7D692",
+    "points": 70000,
+    "reward": 700
+  },
+  {
+    "email": "ad80ny@gmail.com",
+    "wallet": "0x69E9Af83edF0Ea708f6FAa57AD1fc8711e1B3125",
+    "points": 55000,
+    "reward": 550
+  },
+  {
+    "email": "ampuniwaruwu1984@gmail.com",
+    "wallet": "0xda9ee925a21c8721b1018a36905ec66958a2db3b",
+    "points": 10000,
+    "reward": 100
+  },
+  {
+    "email": "abidkenzoe@gmail.com",
+    "wallet": "0x8e2E5E801a8E055703f8D939aCee0AF305532376",
+    "points": 70000,
+    "reward": 700
+  },
+  {
+    "email": "calvincruzer10@gmail.com",
+    "wallet": "0x08E1394e922fb2deFDe97570B1580522d8b117f5",
+    "points": 55000,
+    "reward": 550
+  },
+  {
+    "email": "rayenfirdausananta@gmail.com",
+    "wallet": "0xE28f518c94191AAd5aF685F39b35D018d6E9ED0C",
+    "points": 15000,
+    "reward": 150
+  },
+  {
+    "email": "twempick@gmail.com",
+    "wallet": "0x60505abf1542F4498E9ABA284261990CE5c475e6",
+    "points": 15000,
+    "reward": 150
+  },
+  {
+    "email": "lkk4world@gmail.com",
+    "wallet": "0x5641B5d6634fE925022960f73e796d8DbF912210",
+    "points": 15000,
+    "reward": 150
+  },
+  {
+    "email": "snsayid@gmail.com",
+    "wallet": "0xf1d02aC5085D4C2103087D2e978DA76A5e5cC5eB",
+    "points": 20000,
+    "reward": 200
+  },
+  {
+    "email": "sigitarfan00@gmail.com",
+    "wallet": "0x25CB3b7E6e75e98FDA3F77B98F63507691F50911",
+    "points": 24000,
+    "reward": 240
+  },
+  {
     "email": "devachandpangambam64@gmail.com",
     "wallet": "0x75b58a99d06817eff98773198f4c1e545cbbfb70",
     "points": 59870,
@@ -28,12 +580,6 @@
     "wallet": "0x5a8Df77b1526EdD4a654E9eA0545031505074F94",
     "points": 27410,
     "reward": 265
-  },
-  {
-    "email": "botuyenmc@gmail.com",
-    "wallet": "0xb5beaa46a022e84ed944e44124b59ba5be2090a5",
-    "points": 21480,
-    "reward": 208
   },
   {
     "email": "hamedsoleimany0511@gmail.com",
@@ -190,12 +736,6 @@
     "wallet": "0xe68a61c97b8f8c704b8ac3bc2d84a7b5db69a296",
     "points": 104420,
     "reward": 995
-  },
-  {
-    "email": "heundip@gmail.com",
-    "wallet": "0x6b1c9112df0be9d9a3e8987a96584519f6f81946",
-    "points": 94000,
-    "reward": 907
   },
   {
     "email": "adenaja087@gmail.com",
@@ -480,12 +1020,6 @@
     "reward": 754
   },
   {
-    "email": "donnyp152@gmail.com",
-    "wallet": "0x371633f533626CDe63E4d9Fb11043A9E8C3ED51e",
-    "points": 70090,
-    "reward": 711
-  },
-  {
     "email": "rajraj78374@gmail.com",
     "wallet": "0xDeC4C78cBa3cBba9385cA8ca12A7721Df3d72aC9",
     "points": 71420,
@@ -496,12 +1030,6 @@
     "wallet": "0x5a8586D1F266F38B7CDD10AC9393Bd36988bC8b1",
     "points": 80430,
     "reward": 787
-  },
-  {
-    "email": "tekatawan@gmail.com",
-    "wallet": "0x5145866B80CfD99EEB968b6DC7148b921aed61C4",
-    "points": 79750,
-    "reward": 762
   },
   {
     "email": "arifjunior83@gmail.com",
@@ -538,12 +1066,6 @@
     "wallet": "0x58F957275Ea312262AFB65b25FaCbB71c2c11d68",
     "points": 83230,
     "reward": 798
-  },
-  {
-    "email": "gadris250@gmail.com",
-    "wallet": "0xB4DdE601f40DB20892129d4558FbfA7219f46E98",
-    "points": 78710,
-    "reward": 775
   },
   {
     "email": "lfcrzh4563233@gmail.com",
@@ -586,18 +1108,6 @@
     "wallet": "0x646b31253867c22932880b47bAF1BF59a6e8e287",
     "points": 82440,
     "reward": 791
-  },
-  {
-    "email": "dhimasgs6597@gmail.com",
-    "wallet": "0x5f810a524AF1E902Eb36d52259206bFa95F5B1d4",
-    "points": 73340,
-    "reward": 759
-  },
-  {
-    "email": "alungsipetani@gmail.com",
-    "wallet": "0x4F97A3aa19d2a274a96D67B8777F72cc526F3f4c",
-    "points": 71890,
-    "reward": 707
   },
   {
     "email": "yunancreww@gmail.com",
@@ -756,30 +1266,6 @@
     "reward": 711
   },
   {
-    "email": "dwiprilaksono1@gmail.com",
-    "wallet": "0x688044Be0AE7c462eD26c4B7CA4c828040EA998E",
-    "points": 71020,
-    "reward": 703
-  },
-  {
-    "email": "alihajihasani17@gmail.com",
-    "wallet": "0xe43Cf8AD917E550Bc186af4B4BB1A2AfB20556f8",
-    "points": 81260,
-    "reward": 776
-  },
-  {
-    "email": "dinasti.joko@gmail.com",
-    "wallet": "0xD59C1B86D4287bb4793A92E84506a3bcd5A91fFf",
-    "points": 73730,
-    "reward": 722
-  },
-  {
-    "email": "thaolnt.7@gmail.com",
-    "wallet": "0xd022ceb255574f5a05cfbbac0ee3e00bf23c293d",
-    "points": 75870,
-    "reward": 788
-  },
-  {
     "email": "kpzkpla@gmail.com",
     "wallet": "0xe66c46579c472090b58be44c58bb9a2e2946dd08",
     "points": 80330,
@@ -876,12 +1362,6 @@
     "reward": 794
   },
   {
-    "email": "tretand035@gmail.com",
-    "wallet": "0x5460a78Ed117EE9EE19Ce989706CA64f3fea3AEd",
-    "points": 76790,
-    "reward": 763
-  },
-  {
     "email": "thetmyoaung.dm@gmail.com",
     "wallet": "0xE2DF865eA6ce5F251b257e44fAd66E9D97244A93",
     "points": 76580,
@@ -976,12 +1456,6 @@
     "wallet": "0x720e8c9964ecc3c6e694c8e99392577c06ef7db2",
     "points": 72390,
     "reward": 719
-  },
-  {
-    "email": "aji.samhadi@gmail.com",
-    "wallet": "0x2746d9Dc9Fc309f1c74891d067061Ebac97eF3c0",
-    "points": 80360,
-    "reward": 776
   },
   {
     "email": "idlton443124@gmail.com",
@@ -1240,12 +1714,6 @@
     "wallet": "0x178173627AA2f703e1A4AdB549791aCEe019b283",
     "points": 35950,
     "reward": 357
-  },
-  {
-    "email": "kechililham13@gmail.com",
-    "wallet": "0xeef86Bf7db90345F726d9F7E04731b64DEe79782",
-    "points": 34400,
-    "reward": 334
   },
   {
     "email": "userremaja43@gmail.com",
@@ -1536,18 +2004,6 @@
     "reward": 247
   },
   {
-    "email": "kunaluyut@gmail.com",
-    "wallet": "0x90552Ca53592DfA96C887400DDAB964B2824FF02",
-    "points": 29090,
-    "reward": 292
-  },
-  {
-    "email": "putrakelana5420@gmail.com",
-    "wallet": "0x20b3c06ec0534cfd387c2202a5cc0d5b49d500c2",
-    "points": 23200,
-    "reward": 240
-  },
-  {
     "email": "nemeshan77@gmail.com",
     "wallet": "0x099532F577a1e474a30D198551936c8A075EFbE1",
     "points": 21650,
@@ -1558,18 +2014,6 @@
     "wallet": "0xd823FB207Bf3541578110b8Ccc6a92706974cF59",
     "points": 24040,
     "reward": 240
-  },
-  {
-    "email": "austinedigital4@gmail.com",
-    "wallet": "0xdd25422cc3bf5452d2eeac2e49d32b2f66fd51b1",
-    "points": 29550,
-    "reward": 283
-  },
-  {
-    "email": "tuyuldana1@gmail.com",
-    "wallet": "0xeC0f1750d451A62f172f284a2C7F1994463c3764",
-    "points": 26530,
-    "reward": 263
   },
   {
     "email": "nurwandiusuludani548@gmail.com",
@@ -1618,12 +2062,6 @@
     "wallet": "0x2e8B07c806AAF57c8fDfE74195622CA92D0F0311",
     "points": 28620,
     "reward": 282
-  },
-  {
-    "email": "leducloi80702@gmail.com",
-    "wallet": "0xDe992a0FF78E683AAC8d8F044FB532E222F4bAA3",
-    "points": 19580,
-    "reward": 202
   },
   {
     "email": "hafizmanzoorhussain0@gmail.com",
@@ -1764,12 +2202,6 @@
     "reward": 193
   },
   {
-    "email": "guzgogon12@gmail.com",
-    "wallet": "0x5Fe243B4d89662e2ca7Cb31A0DE080B5b842e20C",
-    "points": 12740,
-    "reward": 128
-  },
-  {
     "email": "ikpeemediong100@gmail.com",
     "wallet": "0x5de073EfED60A6a12f08f303B2DA4CaA9743442b",
     "points": 14110,
@@ -1816,12 +2248,6 @@
     "wallet": "0x35668F32b1d15289ea27D16ec44449318FBaEbb6",
     "points": 11830,
     "reward": 121
-  },
-  {
-    "email": "anandre490@gmail.com",
-    "wallet": "0x720b851bbebd76740c5af9fca4aa990917d457f8",
-    "points": 18680,
-    "reward": 191
   },
   {
     "email": "ruhulamin286374@gmail.com",
@@ -1888,12 +2314,6 @@
     "wallet": "0x79d6D807757e93752733c75Af9c34426BeA9347f",
     "points": 16910,
     "reward": 167
-  },
-  {
-    "email": "hgddari@gmail.com",
-    "wallet": "0xbc0f79d681f752123e439fe5b39c32e120500330",
-    "points": 17180,
-    "reward": 169
   },
   {
     "email": "chancalkhan43@gmail.com",
@@ -2142,12 +2562,6 @@
     "reward": 125
   },
   {
-    "email": "hungduong1090@gmail.com",
-    "wallet": "0x99e0D8B036CB00d555853b6fC6559c2643EacE7a",
-    "points": 10980,
-    "reward": 112
-  },
-  {
     "email": "mtp191919@gmail.com",
     "wallet": "0xb3e571417705DBD24f11A5Bc9fBF1ff90A615328",
     "points": 16090,
@@ -2292,12 +2706,6 @@
     "reward": 187
   },
   {
-    "email": "cardnot404@gmail.com",
-    "wallet": "0xb39E150C0000d902E5aA8e7cFC2C36485a0292D3",
-    "points": 12660,
-    "reward": 122
-  },
-  {
     "email": "rashedjaman416@gmail.com",
     "wallet": "0xFb0e0b532b6bD2475A979cb8C4C68879026c4E56",
     "points": 11040,
@@ -2418,12 +2826,6 @@
     "reward": 113
   },
   {
-    "email": "awpruslih@gmail.com",
-    "wallet": "0xf5Cd336c61B3f2B351d235ecBB22322735930abe",
-    "points": 18820,
-    "reward": 187
-  },
-  {
     "email": "airdropxcom@gmail.com",
     "wallet": "0xF8039555EeBa2929Aec52146cF1A46D9187e84b0",
     "points": 11550,
@@ -2518,12 +2920,6 @@
     "wallet": "0x35C9227E7DfDA3fCef51a9a501C39DEcc6960126",
     "points": 14150,
     "reward": 138
-  },
-  {
-    "email": "andarsunarya01@gmail.com",
-    "wallet": "0xA4fCc2bF5Cd2c771351525eedB8344a43C7e1b06",
-    "points": 15690,
-    "reward": 150
   },
   {
     "email": "ausmansen@gmail.com",
@@ -2632,12 +3028,6 @@
     "wallet": "0xb290bb3c0ba0797a7e4a8b6a42d301600b61b2dc",
     "points": 10120,
     "reward": 102
-  },
-  {
-    "email": "olgamirankova@gmail.com",
-    "wallet": "0x3152bE66D85e155CB185E2030FA5E8f712Ce520e",
-    "points": 13500,
-    "reward": 134
   },
   {
     "email": "alexmohamed206@gmail.com",
@@ -2860,12 +3250,6 @@
     "wallet": "0x1E47F1E0267c2A2B7aEf56d69Dae7c200c2f913e",
     "points": 11520,
     "reward": 111
-  },
-  {
-    "email": "y.heriyanto102@gmail.com",
-    "wallet": "0x942054f145c53e6557e9cfacf9aa44bea5e0f24d",
-    "points": 13170,
-    "reward": 129
   },
   {
     "email": "mihir.innocent@gmail.com",
@@ -3294,12 +3678,6 @@
     "reward": 176
   },
   {
-    "email": "yurez1981@gmail.com",
-    "wallet": "0x57D9F565eE542639E6d3ed2D9018cC581F36846E",
-    "points": 16790,
-    "reward": 166
-  },
-  {
     "email": "amarula444@gmail.com",
     "wallet": "0xD3e4dD07c610430518EEeEb74E0cFbd168414Bd7",
     "points": 13120,
@@ -3340,12 +3718,6 @@
     "wallet": "0x1Cf9A80e960217451B636CDf3b1Fc21fCeB60e29",
     "points": 19370,
     "reward": 199
-  },
-  {
-    "email": "khidayat12121217@gmail.com",
-    "wallet": "0xd874ECDA3e1fF9f0d2B4C80Cb8C1Caa095CD0725",
-    "points": 10760,
-    "reward": 103
   },
   {
     "email": "opeyemipsalm@gmail.com",
@@ -3408,12 +3780,6 @@
     "reward": 197
   },
   {
-    "email": "ad80ny@gmail.com",
-    "wallet": "0x69E9Af83edF0Ea708f6FAa57AD1fc8711e1B3125",
-    "points": 14260,
-    "reward": 140
-  },
-  {
     "email": "sadmansanjed@gmail.com",
     "wallet": "0xb891f86CfdaB2cf42ef1651e87060d0f46912F2E",
     "points": 15520,
@@ -3430,12 +3796,6 @@
     "wallet": "0x4255e95e335867046BB04D6F1231663f337e4861",
     "points": 13550,
     "reward": 131
-  },
-  {
-    "email": "abidkenzoe@gmail.com",
-    "wallet": "0x8e2E5E801a8E055703f8D939aCee0AF305532376",
-    "points": 15660,
-    "reward": 150
   },
   {
     "email": "chamodbandarassd07@gmail.com",
@@ -3924,12 +4284,6 @@
     "reward": 131
   },
   {
-    "email": "sigitarfan00@gmail.com",
-    "wallet": "0x25CB3b7E6e75e98FDA3F77B98F63507691F50911",
-    "points": 11300,
-    "reward": 108
-  },
-  {
     "email": "latmus2nd@gmail.com",
     "wallet": "0xc8bb72716ebfd99d424963aeb694f1a8bd96cd67",
     "points": 11440,
@@ -4002,12 +4356,6 @@
     "reward": 720
   },
   {
-    "email": "dewadewdh910@gmail.com",
-    "wallet": "0x00e7a1181a32d03bb17f34f2903fd86a4370027b",
-    "points": 65500,
-    "reward": 650
-  },
-  {
     "email": "pm4104896@gmail.com",
     "wallet": "0x8c09d9fdcbb31514b7cb998e9dffe72fc78cac8f",
     "points": 65000,
@@ -4072,12 +4420,6 @@
     "wallet": "0x4c8c8703c83033aa47aD0D5739bB8AfB40b93E22",
     "points": 43500,
     "reward": 430
-  },
-  {
-    "email": "selalusendiri397@gmail.com",
-    "wallet": "0x6abE304eD23e19c5Fb77263A62EE2f10938E37E6",
-    "points": 41500,
-    "reward": 410
   },
   {
     "email": "barshahalder147@gmail.com",
@@ -4224,12 +4566,6 @@
     "reward": 210
   },
   {
-    "email": "billubaba1983@gmail.com",
-    "wallet": "0xb9e32C15B63FB6773Ea3442f6C8067710e4841AE",
-    "points": 20000,
-    "reward": 200
-  },
-  {
     "email": "m.fachrimaulana10@gmail.com",
     "wallet": "0x5D6472e32f2499456830E985e2e29f5533D02F69",
     "points": 20000,
@@ -4251,12 +4587,6 @@
     "email": "shimaabc28@gmail.com",
     "wallet": "0x55BC5620b8c8227c0e7456650939724292707cB3",
     "points": 19500,
-    "reward": 190
-  },
-  {
-    "email": "dikikurniawan832@gmail.com",
-    "wallet": "0x4949d93c7b4dc3fa1689795db23589455f87407a",
-    "points": 19000,
     "reward": 190
   },
   {
@@ -4306,12 +4636,6 @@
     "wallet": "0xcb7c3909b2b53d5445176dcc7e50b0dbd28b8f52",
     "points": 17000,
     "reward": 170
-  },
-  {
-    "email": "tripratama089@gmail.com",
-    "wallet": "0x7466b1f4808e04357db6c420a8abab41e38cd33f",
-    "points": 16500,
-    "reward": 160
   },
   {
     "email": "bmtcity.daklak@gmail.com",
@@ -4748,12 +5072,6 @@
   {
     "email": "kalulovemoney@gmail.com",
     "wallet": "0x126d07d7F7a0F833fefFDb09BC94C0df39fC27c7",
-    "points": 9500,
-    "reward": 90
-  },
-  {
-    "email": "sopyantsauri013@gmail.com",
-    "wallet": "0xcb9fcc958f7ea5c187f17eae6e1be3e304a7a971",
     "points": 9500,
     "reward": 90
   },
@@ -5382,12 +5700,6 @@
     "reward": 80
   },
   {
-    "email": "kinodery@gmail.com",
-    "wallet": "0xB35Ebb0db7AA46c913d3e75D041C857cb6423988",
-    "points": 8000,
-    "reward": 80
-  },
-  {
     "email": "cryptosmartgem@gmail.com",
     "wallet": "0x2c8a8f7fc5ae390c8623e66b99267d3b61538388",
     "points": 8000,
@@ -5414,12 +5726,6 @@
   {
     "email": "ruksanaaktar567@gmail.com",
     "wallet": "0x63d4e1339662a89551511880bd23b788c05cf167",
-    "points": 8000,
-    "reward": 80
-  },
-  {
-    "email": "ncekfirmansyah25@gmail.com",
-    "wallet": "0xF0EdDC8079031929B7E2da59C73C370b0933DE01",
     "points": 8000,
     "reward": 80
   },
@@ -6030,12 +6336,6 @@
     "reward": 70
   },
   {
-    "email": "aciun7275@gmail.com",
-    "wallet": "0xEBc8e9acEE7DA022Ce79c3b80f86D339786B5F07",
-    "points": 7500,
-    "reward": 70
-  },
-  {
     "email": "taylorsagem@gmail.com",
     "wallet": "0xB7CD93F67a5C9f8f44C857b24b09F733645E8da0",
     "points": 7500,
@@ -6098,12 +6398,6 @@
   {
     "email": "kobiruddinbogura@gmail.com",
     "wallet": "0xe1F894cc447B0CA053633C023D37Ec62e44C5f63",
-    "points": 7500,
-    "reward": 70
-  },
-  {
-    "email": "muhdierlangga205@gmail.com",
-    "wallet": "0x43e51344fb7df0769b1ede9aed211780a376549d",
     "points": 7500,
     "reward": 70
   },
@@ -6282,12 +6576,6 @@
     "reward": 70
   },
   {
-    "email": "sahibul.damarwulan@gmail.com",
-    "wallet": "0x60aB87b801f4394a11c7514c2e0d76cfe2B45671",
-    "points": 7500,
-    "reward": 70
-  },
-  {
     "email": "ajoyrahul.a@gmail.com",
     "wallet": "0xf90E7f3515eEcCBBD83bC03b0C83885605638892",
     "points": 7500,
@@ -6362,12 +6650,6 @@
   {
     "email": "yogaoggy07@gmail.com",
     "wallet": "0x4132791d238C089cBD5Eb120109f6c776C3892aa",
-    "points": 7500,
-    "reward": 70
-  },
-  {
-    "email": "kajaljash07@gmail.com",
-    "wallet": "0xa2BCD1053380c0e160c2AEe3772c60e2E417a38F",
     "points": 7500,
     "reward": 70
   },
@@ -6552,12 +6834,6 @@
     "reward": 70
   },
   {
-    "email": "aszaenmu@gmail.com",
-    "wallet": "0xbc7ec6e48ef9d54047abece5eb636d83dca23091",
-    "points": 7500,
-    "reward": 70
-  },
-  {
     "email": "brianleonardo56@gmail.com",
     "wallet": "0xAbe75F4e9D585fD84acB74E6731cb986F1D1614C",
     "points": 7500,
@@ -6692,12 +6968,6 @@
   {
     "email": "tiawncrz@gmail.com",
     "wallet": "0xd61718B70046268A62471a9cC0baDfeC71d4BBBa",
-    "points": 7500,
-    "reward": 70
-  },
-  {
-    "email": "sangputraperbakinjuna@gmail.com",
-    "wallet": "0x44cd5ea3d582cc9f79aac5e389cf5d477d7880d0",
     "points": 7500,
     "reward": 70
   },
@@ -7200,12 +7470,6 @@
     "reward": 70
   },
   {
-    "email": "erangaemb2004@gmail.com",
-    "wallet": "0x3332A11241C6371D0A8ff2F9f800b013165E0cC1",
-    "points": 7500,
-    "reward": 70
-  },
-  {
     "email": "guntursinaga516@gmail.com",
     "wallet": "0x13055fd7c811be3e93bd7ca9874578ed478ef970",
     "points": 7500,
@@ -7674,12 +7938,6 @@
     "reward": 70
   },
   {
-    "email": "sendiskaads@gmail.com",
-    "wallet": "0xf70A31b2F947AdF86dF552aC1897FCa2b5940370",
-    "points": 7500,
-    "reward": 70
-  },
-  {
     "email": "nandaadiprasetya@gmail.com",
     "wallet": "0x9a9858bd1B3acAF25e62D2D0A5DFc463bcdD4be5",
     "points": 7500,
@@ -7836,12 +8094,6 @@
     "reward": 70
   },
   {
-    "email": "parmanadandy9@gmail.com",
-    "wallet": "0xce956c37420649b962730e418528f5d13ba2becf",
-    "points": 7500,
-    "reward": 70
-  },
-  {
     "email": "seuty466@gmail.com",
     "wallet": "0xf27b16a7de4543c44e141a4c6604b37c80f90b81",
     "points": 7500,
@@ -7880,12 +8132,6 @@
   {
     "email": "lentobangsal@gmail.com",
     "wallet": "0x6d78215163180f122E94B06F49DaF8D5229e8dAf",
-    "points": 7500,
-    "reward": 70
-  },
-  {
-    "email": "usdt705@gmail.com",
-    "wallet": "0x27a514f9b9ed7a819938dce57dbe8ba68da62824",
     "points": 7500,
     "reward": 70
   },
@@ -7950,20 +8196,8 @@
     "reward": 70
   },
   {
-    "email": "azzanisofyan0@gmail.com",
-    "wallet": "0xff36eca8cd22cb5267d281a118fba12165c0b070",
-    "points": 7500,
-    "reward": 70
-  },
-  {
     "email": "suwndys@gmail.com",
     "wallet": "0xA5d71da7b21F3a6d5A63daa48f95c76ae2280AcE",
-    "points": 7500,
-    "reward": 70
-  },
-  {
-    "email": "alrajabjeko8@gmail.com",
-    "wallet": "0x023eb900c022d303997765c006206faf3ad54f45",
     "points": 7500,
     "reward": 70
   },
@@ -9026,12 +9260,6 @@
   {
     "email": "mdeidrisehossain@gmail.com",
     "wallet": "0x53FfCaf8045C3238003FB72627ffF68BDFEe9584",
-    "points": 7500,
-    "reward": 70
-  },
-  {
-    "email": "akramdena43@gmail.com",
-    "wallet": "0x4E0C11FF99bbF8213B1D3b941d1a81Ad1e557ea9",
     "points": 7500,
     "reward": 70
   },
@@ -13104,12 +13332,6 @@
     "reward": 60
   },
   {
-    "email": "pmljoko42@gmail.com",
-    "wallet": "0xd0E40f8DC3F239937272FF95FE83d93A13dd72A8",
-    "points": 6000,
-    "reward": 60
-  },
-  {
     "email": "kanand093@gmail.com",
     "wallet": "0xBBA6a5750A0f2920992215f929711a107089842f",
     "points": 6000,
@@ -13118,12 +13340,6 @@
   {
     "email": "kunyukluu2@gmail.com",
     "wallet": "0xfd68861f7BC74b1e710C4a523A8CC3B6A2f165d9",
-    "points": 6000,
-    "reward": 60
-  },
-  {
-    "email": "panjiimade5@gmail.com",
-    "wallet": "0x485dC7AC83B224973c35630C0602d36fb2309a52",
     "points": 6000,
     "reward": 60
   },
@@ -13464,12 +13680,6 @@
     "reward": 40
   },
   {
-    "email": "mangfiksi6@gmail.com",
-    "wallet": "0xe94Ec19F5e9F1B98dbBB395973175CFaFBb9FaC3",
-    "points": 4000,
-    "reward": 40
-  },
-  {
     "email": "fahrulfauji24@gmail.com",
     "wallet": "0x3d2c1FFE512FC322b7A5840e44C1b13aBc44dB38",
     "points": 4000,
@@ -13656,12 +13866,6 @@
     "reward": 40
   },
   {
-    "email": "souranjash65@gmail.com",
-    "wallet": "0xBd31989716749a470F832e2c738f0B7C75228175",
-    "points": 3500,
-    "reward": 30
-  },
-  {
     "email": "michaelsitholeem.33@gmail.com",
     "wallet": "0x07b9419138353E0961EE7b865E2F27AFBFBa8a7F",
     "points": 3500,
@@ -13688,12 +13892,6 @@
   {
     "email": "ajavad864@gmail.com",
     "wallet": "0xF7D1228ABb31F2088A48872CC7605F51d97A7041",
-    "points": 3500,
-    "reward": 30
-  },
-  {
-    "email": "crosslinecv@gmail.com",
-    "wallet": "0x964686a6cB1efD9eCD7b53086C24D0AAC53e0c69",
     "points": 3500,
     "reward": 30
   },
@@ -14106,12 +14304,6 @@
     "reward": 20
   },
   {
-    "email": "0xalam2@gmail.com",
-    "wallet": "0xc149bAF46340349389c652aEEA4f5f1aCbc32c0a",
-    "points": 2500,
-    "reward": 20
-  },
-  {
     "email": "mr9325761@gmail.com",
     "wallet": "0x06C46365697894cc4613c4D80Ef93E74BF105Ffd",
     "points": 2500,
@@ -14232,12 +14424,6 @@
     "reward": 20
   },
   {
-    "email": "tarakjh55@gmail.com",
-    "wallet": "0x5D92154E6553e01A9C119bb870f2BA58Ae1e8d56",
-    "points": 2500,
-    "reward": 20
-  },
-  {
     "email": "shahanapervin.cbc123@gmail.com",
     "wallet": "0x4891385ffe3054e05d2f4dc2060696d884587ea7",
     "points": 2500,
@@ -14340,12 +14526,6 @@
     "reward": 20
   },
   {
-    "email": "khoirul.nisa1983@gmail.com",
-    "wallet": "0x73ddae46e300d41ff3642c19d7f377ddc770b744",
-    "points": 2500,
-    "reward": 20
-  },
-  {
     "email": "otaw2672@gmail.com",
     "wallet": "0x1E59F595f88e4b088d3D082d32EA785CeCd6ab18",
     "points": 2500,
@@ -14354,12 +14534,6 @@
   {
     "email": "ducvietst118@gmail.com",
     "wallet": "0xD843f7D9c6FbBAa513C1b59ac3096316A151594A",
-    "points": 2500,
-    "reward": 20
-  },
-  {
-    "email": "coygabut11@gmail.com",
-    "wallet": "0xa55e81f00a43adac7c4a98f1678ad8b0a2175a8b",
     "points": 2500,
     "reward": 20
   },
@@ -14490,12 +14664,6 @@
     "reward": 20
   },
   {
-    "email": "jypdoc373@gmail.com",
-    "wallet": "0x30b281559a3f0f54f315c40ba4632686d0cf6097",
-    "points": 2500,
-    "reward": 20
-  },
-  {
     "email": "osaddam30@gmail.com",
     "wallet": "0x436Fa1F9881c1D8983652FC866eB4660E92c83cd",
     "points": 2500,
@@ -14514,12 +14682,6 @@
     "reward": 20
   },
   {
-    "email": "doniherdianto69@gmail.com",
-    "wallet": "0x51a9647C32Af128D937be3781057282Bae85eF2A",
-    "points": 2500,
-    "reward": 20
-  },
-  {
     "email": "esmail608060@gmail.com",
     "wallet": "0x0fC88c2133c9b52Bed55B602F73169328979B925",
     "points": 2500,
@@ -14528,12 +14690,6 @@
   {
     "email": "kaomsufa@gmail.com",
     "wallet": "0xCdE5A6bF5a7dC96F01a0dBCa82E3c15c8e1E93e2",
-    "points": 2500,
-    "reward": 20
-  },
-  {
-    "email": "wolwol085842642870@gmail.com",
-    "wallet": "0x99dd9f4be09da6a503e9021431895c6460befe2b",
     "points": 2500,
     "reward": 20
   },
@@ -14844,12 +15000,6 @@
     "reward": 20
   },
   {
-    "email": "dendy.suhendrik@gmail.com",
-    "wallet": "0xEFe7C65C7b509DA1427c0B5b420F2673f9BC4949",
-    "points": 2500,
-    "reward": 20
-  },
-  {
     "email": "chuvanquang.cdndl@gmail.com",
     "wallet": "0x621569C93042738A3c92dF99D6818c54CEE84cf6",
     "points": 2500,
@@ -14894,12 +15044,6 @@
   {
     "email": "myangelritu@gmail.com",
     "wallet": "0x0060A13fDBE0873A22a8DA1A2A289BAea6B4FDbF",
-    "points": 2500,
-    "reward": 20
-  },
-  {
-    "email": "winsyorri@gmail.com",
-    "wallet": "0xd6EFE39439EAa70454aB9DA83a5A7C47E7BF1607",
     "points": 2500,
     "reward": 20
   },
@@ -16370,12 +16514,6 @@
   {
     "email": "jibonn779@gmail.com",
     "wallet": "0x0798b007d1be302c4b355fD556EFc1D6B524f2B6",
-    "points": 2500,
-    "reward": 20
-  },
-  {
-    "email": "kkokkbetok@gmail.com",
-    "wallet": "0x08d7272eB799FE087E1561930ef3260606a16B3f",
     "points": 2500,
     "reward": 20
   },
@@ -19176,12 +19314,6 @@
     "reward": 10
   },
   {
-    "email": "lkk4world@gmail.com",
-    "wallet": "0x5641B5d6634fE925022960f73e796d8DbF912210",
-    "points": 1000,
-    "reward": 10
-  },
-  {
     "email": "ddavido827@gmail.com",
     "wallet": "0x2147eb14acb453fc0326f75333e22b74fc632ac6",
     "points": 1000,
@@ -19256,12 +19388,6 @@
   {
     "email": "investorhorla22@gmail.com",
     "wallet": "0x6bd62fd98dc7bdb0dd357c010cd656cf37399e06",
-    "points": 1000,
-    "reward": 10
-  },
-  {
-    "email": "ozihatake77@gmail.com",
-    "wallet": "0x9b0e826BAA5E93c7eB3057098ea968785551c38f",
     "points": 1000,
     "reward": 10
   },
@@ -19674,12 +19800,6 @@
     "reward": 10
   },
   {
-    "email": "akuntbtbtbtb@gmail.com",
-    "wallet": "0x8ad3ed216d577c42ebc2039c5525ba6da7fc5a86",
-    "points": 1000,
-    "reward": 10
-  },
-  {
     "email": "malikrizwanali54@gmail.com",
     "wallet": "0x634ffff89884acb1b3ca6fda30c1a399d1ca1b50",
     "points": 1000,
@@ -19736,12 +19856,6 @@
   {
     "email": "fencykhatun77@gmail.com",
     "wallet": "0xe9103C062b01f927E7aD810ccCB739904aC8A1c6",
-    "points": 1000,
-    "reward": 10
-  },
-  {
-    "email": "calvincruzer10@gmail.com",
-    "wallet": "0x08E1394e922fb2deFDe97570B1580522d8b117f5",
     "points": 1000,
     "reward": 10
   },
@@ -19964,18 +20078,6 @@
   {
     "email": "yqfcaa@gmail.com",
     "wallet": "0xa446add8b3cac35d7186e3ac37d90b5db97865c9",
-    "points": 1000,
-    "reward": 10
-  },
-  {
-    "email": "membertraderjks@gmail.com",
-    "wallet": "0x2edC3c2e53C0e291fC78023a3DAdCa499eEf1d4F",
-    "points": 1000,
-    "reward": 10
-  },
-  {
-    "email": "snsayid@gmail.com",
-    "wallet": "0xf1d02aC5085D4C2103087D2e978DA76A5e5cC5eB",
     "points": 1000,
     "reward": 10
   },
@@ -20264,12 +20366,6 @@
   {
     "email": "3664702916@qq.com",
     "wallet": "0x3e3937c4f5e27828e10fa49fe767f9cb3efd8dd5",
-    "points": 1000,
-    "reward": 10
-  },
-  {
-    "email": "ampuniwaruwu1984@gmail.com",
-    "wallet": "0xda9ee925a21c8721b1018a36905ec66958a2db3b",
     "points": 1000,
     "reward": 10
   },
@@ -21002,12 +21098,6 @@
   {
     "email": "adeleyemariam.am@gmail.com",
     "wallet": "0x7d52ee7BAe8ed8675E8EEB9f503A621e0F41234f",
-    "points": 1000,
-    "reward": 10
-  },
-  {
-    "email": "twempick@gmail.com",
-    "wallet": "0x60505abf1542F4498E9ABA284261990CE5c475e6",
     "points": 1000,
     "reward": 10
   },
@@ -25050,12 +25140,6 @@
     "reward": 10
   },
   {
-    "email": "untungterus1555@gmail.com",
-    "wallet": "0x8F025743e86EE7629A762f811af5CC2eE71ca431",
-    "points": 1000,
-    "reward": 10
-  },
-  {
     "email": "masbran313@gmail.com",
     "wallet": "0xbfecA3DC37c9fAb96e06424c2E7bB545455853e1",
     "points": 1000,
@@ -25160,12 +25244,6 @@
   {
     "email": "andysonmarksmith@gmail.com",
     "wallet": "0x559cde60d32fc12c4aa2451bb0c83851054b1a16",
-    "points": 1000,
-    "reward": 10
-  },
-  {
-    "email": "rayenfirdausananta@gmail.com",
-    "wallet": "0xE28f518c94191AAd5aF685F39b35D018d6E9ED0C",
     "points": 1000,
     "reward": 10
   },
@@ -26408,12 +26486,6 @@
   {
     "email": "bladehanagaki@gmail.com",
     "wallet": "0xeB724F7FDc24BF667c45D9405Ef3BDe9e0a31144",
-    "points": 1000,
-    "reward": 10
-  },
-  {
-    "email": "kancangkalip@gmail.com",
-    "wallet": "0xc5fdef3996a95553bc9d252ce8c297ffe5b5a79e",
     "points": 1000,
     "reward": 10
   },
@@ -28278,12 +28350,6 @@
     "reward": 10
   },
   {
-    "email": "estemwarden@gmail.com",
-    "wallet": "0x32E60DD1f8A868FAE337FB400e47A81a4d4FdDB5",
-    "points": 1000,
-    "reward": 10
-  },
-  {
     "email": "cubin8931@gmail.com",
     "wallet": "0x64c2167cC4977F92215DE23ff771b4f183b0Db33",
     "points": 1000,
@@ -28424,12 +28490,6 @@
   {
     "email": "bunmicent@gmail.com",
     "wallet": "0x142C4C7b2DB3792d8dC1c4a6456d6558D9747cB5",
-    "points": 1000,
-    "reward": 10
-  },
-  {
-    "email": "electricrehovot@gmail.com",
-    "wallet": "0x434591cD7Ecb93902804643C3f41e0bb67cA5eae",
     "points": 1000,
     "reward": 10
   },
@@ -28730,12 +28790,6 @@
   {
     "email": "amatohot888@gmail.com",
     "wallet": "0x95fb5e63547E44f46319BfF5e34A5DD6a5d7f29f",
-    "points": 1000,
-    "reward": 10
-  },
-  {
-    "email": "khaerulfikran@gmail.com",
-    "wallet": "0x645d72F9D890013BCD354330dfbcACe1640E5Aa9",
     "points": 1000,
     "reward": 10
   },
@@ -30216,12 +30270,6 @@
     "reward": 10
   },
   {
-    "email": "ayamhopee@gmail.com",
-    "wallet": "0x9C854Bf81C81cb5038ff3DD702e9e552f20fe1B5",
-    "points": 1000,
-    "reward": 10
-  },
-  {
     "email": "sushilsaikh3@gmail.com",
     "wallet": "0xDD84b9f57279B5c4058e1C3ef49C8ba174634C81",
     "points": 1000,
@@ -31134,12 +31182,6 @@
     "reward": 10
   },
   {
-    "email": "riyantoayip@gmail.com",
-    "wallet": "0xB4d772be6465B75AD0f7119470b452f00b2D6156",
-    "points": 1000,
-    "reward": 10
-  },
-  {
     "email": "neilbaba309@gmail.com",
     "wallet": "0x1856029AA68Aa9488b242027029885E77a065a65",
     "points": 1000,
@@ -31250,12 +31292,6 @@
   {
     "email": "amurka501@gmail.com",
     "wallet": "0x1eb08198d9324f9b89d143a39ceaaa33171db4e8",
-    "points": 1000,
-    "reward": 10
-  },
-  {
-    "email": "ihsan.kamil.1004@gmail.com",
-    "wallet": "0x2e5d041e554d9859da890ccc28ac618a5381f817",
     "points": 1000,
     "reward": 10
   },
@@ -31928,12 +31964,6 @@
   {
     "email": "ebrahimpour.shahab@gmail.com",
     "wallet": "0x5DC580f53f88be2b9BF4580D7e0Def9ecE1fa83a",
-    "points": 1000,
-    "reward": 10
-  },
-  {
-    "email": "lampanggabean2019@gmail.com",
-    "wallet": "0x2f53A1D6b19fEE7A4b04A57277F359C45B0A24f6",
     "points": 1000,
     "reward": 10
   },
@@ -33000,12 +33030,6 @@
     "reward": 10
   },
   {
-    "email": "puspadiana1009@gmail.com",
-    "wallet": "0x74F9C54ed93B8698FAc310665C0B913767d6eFE8",
-    "points": 1000,
-    "reward": 10
-  },
-  {
     "email": "dannielchijioke34@gmail.com",
     "wallet": "0xbdd80a18f564025ab7974571ab30a8fdd9508b5c",
     "points": 1000,
@@ -33362,12 +33386,6 @@
   {
     "email": "dulalalome@gmail.com",
     "wallet": "0xE143d77938Bcb1B0a9699ea808124CB410aD9b1c",
-    "points": 1000,
-    "reward": 10
-  },
-  {
-    "email": "misesmd1@gmail.com",
-    "wallet": "0x9FDb2de908032e0F6F734cf56924e2D70df7D692",
     "points": 1000,
     "reward": 10
   },
@@ -35832,12 +35850,6 @@
     "reward": 10
   },
   {
-    "email": "iifaanm01@gmail.com",
-    "wallet": "0x8274252C5F87Ea0ce5e2BE526C19aaf8A55e380C",
-    "points": 1000,
-    "reward": 10
-  },
-  {
     "email": "tom004899@gmail.com",
     "wallet": "0x81c7bfdb06c249120055b11342ab4032995c6292",
     "points": 1000,
@@ -36200,12 +36212,6 @@
   {
     "email": "mdshahin21589@gmail.com",
     "wallet": "0x79290ecd8cBb39b566C3169602429685e6B67dEe",
-    "points": 1000,
-    "reward": 10
-  },
-  {
-    "email": "eunjangt@gmail.com",
-    "wallet": "0x5fF536F84B77AfE4c744552166DD4938C3081757",
     "points": 1000,
     "reward": 10
   },
@@ -40106,12 +40112,6 @@
   {
     "email": "euniceephraim28@gmail.com",
     "wallet": "0x1F3185E41eB093414e5EAac8DeE750a3553AE87f",
-    "points": 1000,
-    "reward": 10
-  },
-  {
-    "email": "donald234napitupulu@gmail.com",
-    "wallet": "0xc312B23b476b653784dD17D963bCf74bC726fE6c",
     "points": 1000,
     "reward": 10
   },
