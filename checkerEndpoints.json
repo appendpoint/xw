@@ -12,18 +12,18 @@
     },
     {
       "id": "dogeos",
-      "name": "app.nexus.xyz",
+      "name": "DogeOS",
       "chain": "evm",
-      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=app.nexus.xyz",
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=heist.dogeos.com",
       "endpoints": [
         "https://heist.dogeos.com/api/loyalty/accounts?limit=100&websiteId=7d5e187f-2beb-4ff6-be2b-27db9033b664&organizationId=e72916cb-cdbf-4cc1-ae15-7a6d8997a581&walletAddress={e_addrss}"
       ]
     },
     {
       "id": "nexus",
-      "name": "heist.dogeos.com",
+      "name": "Nexus",
       "chain": "evm",
-      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=heist.dogeos.com",
+      "image_url": "https://www.google.com/s2/favicons?sz=128&domain=app.nexus.xyz",
       "endpoints": [
         "https://quest.nexus.xyz/api/loyalty/accounts?limit=100&websiteId=85a29db3-d34b-4d41-8f37-2bfd3a04a503&organizationId=2899d417-cf20-404f-bb33-ef0e06491acb&walletAddress={e_address}"
       ]
