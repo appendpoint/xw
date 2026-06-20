@@ -1,10 +1,11 @@
 {
-  "notification": false,
+  "notification": true,
   "image": true,
   "button": true,
   "title": "Testnet Update",
-  "message": "DogeOS founder Jordan Jefferson says Dogecoin is expanding beyond Elon Musk’s influence as the project works to build more onchain activity around DOGE.\n\n DogeOS Testnet is NOW LIVE!\nBuilding real utility — apps, games, DeFi & AI on Dogecoin.\n\nLimited slots + huge rewards waiting. Join fast",
-  "media": "https://img.notionusercontent.com/s3/prod-files-secure%2Ffad10fd4-0fdd-427f-8001-0682da31bfd2%2F2911cc30-68c7-4e0d-88a1-669bb3a586fe%2FBanner.png/size/w=2000?exp=1779167463&sig=kgAnoqm4vZXVEEomROcChD4Egj2HpNlRvYfgnBH_t9A&imgBuildSrc=presignImageUrl&id=20e171d0-71e2-8099-a8e2-c67c4ac06a75&table=block&mtd=so",
+  "message": "The first RWA protocol for Maritime Capital Markets. Real vessels powering real yield.Tokenized shipping assets, backed by @Ethrainvest
+",
+  "media": "https://pbs.twimg.com/card_img/2067899310977720320/ewDvx1H-?format=jpg&name=small",
   "buttonText": "Join DogeOS",
   "ctaUrl": "https://heist.dogeos.com/loyalty?referral_code=5LIP80T6"
 }
