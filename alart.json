@@ -1,12 +1,10 @@
 {
-  "notification": false,
+  "notification": true,
   "image": true,
   "button": true,
   "title": "Testnet Update",
-  "message": "The first RWA protocol for Maritime Capital Markets. Real vessels powering real yield.Tokenized shipping assets, backed by @Ethrainvest
-",
+  "message": "The first RWA protocol for Maritime Capital Markets. Real vessels powering real yield. Tokenized shipping assets, backed by @Ethrainvest",
   "media": "https://pbs.twimg.com/card_img/2067899310977720320/ewDvx1H-?format=jpg&name=small",
-  "buttonText": "Join DogeOS",
-  "ctaUrl": "https://heist.dogeos.com/loyalty?referral_code=5LIP80T6"
+  "buttonText": "Join Ethership",
+  "ctaUrl": "https://app.ethraship.io?referralCode=bold-diamond-3090"
 }
-
