@@ -3,5 +3,5 @@
   "version": "4.0.0",
   "apkUrl": "https://github.com/testnetsfile/apps/releases/download/v4.0.0/xWallet.apk",
   "notes": "Bug fixes and improvements",
-  "mandatory": true
+  "mandatory": false
 }
